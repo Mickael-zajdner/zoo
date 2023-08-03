@@ -1,0 +1,21 @@
+.header {
+    background-color: rgb(151, 157, 157);
+    text-align: center;
+}
+
+.leftMenu {
+    background-color: rgb(86, 87, 87);
+    height: 100%;
+    
+}
+
+.rightMenu {
+    background-color: rgb(223, 235, 235);
+    height: 100%;
+}
+
+.footer {
+    background-color: rgb(151, 157, 157);
+    text-align: center;
+    padding-top: 30px;
+}
